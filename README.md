@@ -1,1 +1,1 @@
-Any of the .ipnyb must be opened in a Jupyter Notebook
+Just a set of Python projects I've been working on to get better at the language.  
